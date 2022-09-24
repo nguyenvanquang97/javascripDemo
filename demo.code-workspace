@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "java12",
+			"path": "../../java12"
+		},
+		{
+			"name": "nguyenvanquang97.github.io",
+			"path": "../nguyenvanquang97.github.io"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nguyenvanquang97.github.io"
+	}
+}
