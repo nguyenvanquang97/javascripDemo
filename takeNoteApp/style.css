@@ -2,6 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-weight: 700;
 }
 button{
    border-radius: 0%;
@@ -10,7 +11,7 @@ button{
     margin-top: 30px;
 }
 .container{
-    width: 800px;
+    width: 600px;
     border: 2px solid red;
     border-radius: 25px;
     background-color: #70c9d7;
@@ -27,6 +28,7 @@ img{
     max-width: 100%;
     display: block;
     margin: auto;
+    margin-right: 20px;
 }
 .bam{
     display: flex;
